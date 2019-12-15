@@ -19,8 +19,8 @@ import gdb
 import os
 import os.path
 
-pythondir = '/usr/local/Cellar/gcc/9.2.0_1/share/gcc-9.2.0/python'
-libdir = '/usr/local/Cellar/gcc/9.2.0_1/lib/gcc/9'
+pythondir = '/usr/local/Cellar/gcc/9.2.0_2/share/gcc-9.2.0/python'
+libdir = '/usr/local/Cellar/gcc/9.2.0_2/lib/gcc/9'
 
 # This file might be loaded when there is no current objfile.  This
 # can happen if the user loads it manually.  In this case we don't
